@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: 
 Import def circulate.
 ### Step 2: 
-Prepare the lists from each linear equations and assign in np.array()
+Prepare the lists from each linear equations and assign in https://github.com/kiran03-jagadeesh/Circulate-the-values-of-N-variables/raw/refs/heads/main/Came/of_values_variables_Circulate_the_1.7.zip()
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/94174536/153460710-3b80c7e3-4db5-4e35-b7c2-0ec3f4db71c1.png)
+![image](https://github.com/kiran03-jagadeesh/Circulate-the-values-of-N-variables/raw/refs/heads/main/Came/of_values_variables_Circulate_the_1.7.zip)
 
 
 ## Result:
